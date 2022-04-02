@@ -48,13 +48,13 @@ if(a[0] == m[3][1]) // si se puede comparar dos elementos de arreglos diferentes
 
 - __Ejemplo de Vectores:__
 
-  [Ejemplo Vectores](https://github.com/DamRCorba/Informatica2_2_11/tree/master/Clase01/ejemplos/vectores)
+  [Ejemplo Vectores](https://github.com/DamRCorba/Informatica2_2-12_2022/tree/master/Clase_01_Abril/ejemplos/vectores)
 
 - __Ejemplo de Matrices:__
 
-  [Ejemplo 1](https://github.com/DamRCorba/Informatica2_2_11/tree/master/Clase01/ejemplos/matrices/Ejercicio1)
+  [Ejemplo 1](https://github.com/DamRCorba/Informatica2_2-12_2022/tree/master/Clase_01_Abril/ejemplos/matrices/Ejercicio1)
 
-  [Ejemplo 2](https://github.com/DamRCorba/Informatica2_2_11/tree/master/Clase01/ejemplos/matrices/Ejercicio2) - [Video-Explicación](https://youtu.be/Y1UfYJMelUU) - [Video-Resolución](https://youtu.be/xac4eQmZup8)
+  [Ejemplo 2](https://github.com/DamRCorba/Informatica2_2-12_2022/tree/master/Clase_01_Abril/ejemplos/matrices/Ejercicio2) - [Video-Explicación](https://youtu.be/Y1UfYJMelUU) - [Video-Resolución](https://youtu.be/xac4eQmZup8)
 
 
 ## Cadenas
@@ -66,7 +66,7 @@ Sobre ellas rigen las mismas reglas que para los arreglos. No se las puede compa
 
 - __Ejemplo de Cadenas:__
 
-[Ejemplo Cadenas](https://github.com/DamRCorba/Informatica2_2_11/tree/master/Clase01/ejemplos/cadenas)
+[Ejemplo Cadenas](https://github.com/DamRCorba/Informatica2_2-12_2022/tree/master/Clase_01_Abril/ejemplos/cadenas)
 
 ## Ejercicios Propuestos
 
